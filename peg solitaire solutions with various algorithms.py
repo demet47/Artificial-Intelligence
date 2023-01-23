@@ -349,7 +349,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-#A* ve UCS sorunlu. version2.py en doğru çalışan versiyon
